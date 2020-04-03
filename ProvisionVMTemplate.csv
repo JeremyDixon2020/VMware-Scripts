@@ -1,0 +1,2 @@
+VMName,Notes,CPUCores,Memory,HardDisk1,HardDisk2,Cluster,Folder
+TestVM,test vm notes,2,2,100,10,Tier4-GP01,Discovered virtual machine
